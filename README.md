@@ -1,133 +1,105 @@
-# 👋 Welcome to My Profile
+# 👋 Hi, I'm Vinoth Kumar V  
+### 📊 Data Analyst | Power BI | SQL | Python | Excel
 
-**Name:** Your Name  
-**GitHub:** [@vinothkumar22062002](https://github.com/vinothkumar22062002)  
-**Date Created:** 2026-02-10
+🚀 Detail-oriented **Data Analyst** passionate about transforming raw data into meaningful business insights.  
+I specialize in **data visualization, dashboarding, and analytical reporting** to support data-driven decision-making.
 
----
-
-## 📊 Profile Overview
-
-### Quick Stats
-- 🔗 **Repositories:** 0
-- ⭐ **Stars:** 0
-- 👥 **Followers:** 0
-- 📚 **Public Gists:** 0
+📍 Chennai, India  
+📧 vinothkumarmdu2002@gmail.com  
+📞 +91-7904277800  
 
 ---
 
-## 🎯 Goals & Tracking
+## 🧠 About Me
 
-### 2026 Objectives
-- [ ] Goal 1: Description
-- [ ] Goal 2: Description
-- [ ] Goal 3: Description
-
-### Current Focus
-- **Primary:** [Project/Skill Name]
-- **Secondary:** [Project/Skill Name]
-- **Learning:** [Topic/Language]
+- 🔍 Strong analytical mindset with hands-on experience in **Power BI, SQL, Excel, and Python**
+- 📈 Skilled in **data cleaning, statistical analysis, and KPI reporting**
+- 🧩 Comfortable working with **large datasets** and cross-functional teams
+- 🎯 Goal-driven analyst focused on **business optimization and performance improvement**
 
 ---
 
-## 💻 Technical Skills
+## ⚙️ Technical Skills
 
-### Languages
-- JavaScript/TypeScript
-- Python
-- Java
-- HTML/CSS
-- SQL
-
-### Tools & Technologies
-- Git & GitHub
-- Docker
-- Linux
-- VS Code
-- [Add more...]
-
-### Currently Learning
-- [ ] Skill 1
-- [ ] Skill 2
-- [ ] Skill 3
+### 🛠️ Tools & Technologies
+- **Data Analytics:** Power BI, Excel (Advanced), SQL  
+- **Programming:** Python  
+- **Cloud Basics:** AWS  
+- **Concepts:** Data Cleaning, Data Modeling, Statistical Analysis, KPI Tracking  
 
 ---
 
-## 📁 Key Projects
+## 📊 Project Experience
 
-### Project 1
-- **Description:** Brief description of the project
-- **Technologies:** Tech stack used
-- **Repository:** [Link to repo]
-- **Status:** In Progress / Completed
+### 📌 1. Sales Performance Dashboard
+- Visualized **regional and product-wise sales trends**
+- Identified growth opportunities using **Power BI & Excel**
+- Enabled stakeholders to monitor KPIs effectively  
 
-### Project 2
-- **Description:** Brief description of the project
-- **Technologies:** Tech stack used
-- **Repository:** [Link to repo]
-- **Status:** In Progress / Completed
+### 📌 2. HR Attrition Analysis
+- Built an **interactive Power BI dashboard**
+- Analyzed attrition rates, demographics, and department turnover
+- Helped HR teams identify retention risk areas  
 
----
+### 📌 3. Financial Budget vs Actual Reporting
+- Compared **actual spending vs budget** across departments
+- Highlighted cost-saving opportunities using Power BI visuals  
 
-## 📈 Progress Tracking
+### 📌 4. Customer Segmentation Dashboard
+- Performed **RFM analysis** for customer segmentation
+- Data sourced from **SQL**, visualized in Power BI
+- Improved targeting and customer understanding  
 
-### Monthly Metrics (February 2026)
+### 📌 5. Inventory & Supply Chain Dashboard
+- Monitored **stock levels, reorder points, and supplier delays**
+- Built using Excel data and Power BI reports  
 
-| Metric | Target | Current | Status |
-|--------|--------|---------|--------|
-| Commits | 20 | 0 | 📊 |
-| PRs | 5 | 0 | 📊 |
-| Issues Closed | 3 | 0 | 📊 |
-| Code Reviews | 5 | 0 | 📊 |
-
-### Weekly Log
-
-#### Week 1 (Feb 1-7)
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
-
-#### Week 2 (Feb 8-14)
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+### 📌 6. Marketing Campaign Analysis
+- Analyzed **campaign performance and ROI**
+- Integrated data from **Excel and CRM tools**
+- Supported data-driven marketing decisions  
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🎓 Education
 
-- [ ] Certification 1
-- [ ] Certification 2
-- [ ] Badge/Award 1
+### 🎓 B.Tech in Biotechnology  
+**Sathyabama Institute of Science and Technology**  
+📅 Graduated: 2023  
+📊 CGPA: **7.55**
 
----
+### 🏫 Higher Secondary (12th Grade)  
+- Percentage: **65.2%**  
+- Year: 2019  
 
-## 📚 Learning Resources
-
-- [Resource 1](link)
-- [Resource 2](link)
-- [Resource 3](link)
-
----
-
-## 📝 Notes & Updates
-
-### Latest Updates
-- **2026-02-10:** Profile created
-
-### Personal Notes
-> Add any personal notes or reminders here
+### 🏫 Secondary School (10th Grade)  
+- Percentage: **94.2%**  
+- Year: 2017  
 
 ---
 
-## 🔗 Connect With Me
+## 📜 Certifications & Training
 
-- **LinkedIn:** [Profile Link]
-- **Twitter:** [@Handle]
-- **Email:** [your.email@example.com]
-- **Portfolio:** [your-portfolio.com]
+- ✅ AWS Course – Besant Technologies  
+- ✅ Data Analytics Training – FIIT Technology  
+- ✅ Hands-on Training in Resourceful Waste Conversion Technologies  
+- ✅ Internship in Dairy Products Industry  
 
 ---
 
-## 📋 Last Updated
-2026-02-10
+## 🌐 Languages
+
+- English  
+- Tamil  
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 **LinkedIn:** _(add your LinkedIn URL here)_  
+- 📊 **Portfolio / Power BI Work:** _(optional)_  
+- 📧 **Email:** vinothkumarmdu2002@gmail.com  
+
+---
+
+⭐ *If you like my work, feel free to explore my repositories and connect with me!*  
